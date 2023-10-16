@@ -68,3 +68,8 @@ yes
 
 https://fullnode.devnet.aptoslabs.com/v1/accounts/c9fff503e5c4ff448f49f7126ca29c8ad5e0834dc94225e3a586e6a879a408cf/resource/0xc9fff503e5c4ff448f49f7126ca29c8ad5e0834dc94225e3a586e6a879a408cf::counter::Counter
 
+#browser output: 
+{"type":"0xc9fff503e5c4ff448f49f7126ca29c8ad5e0834dc94225e3a586e6a879a408cf::counter::Counter","data":{"i":"2"}}
+
+
+
